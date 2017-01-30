@@ -34,7 +34,7 @@
 *   [LambdaConf](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 *   [Clojure](https://www.youtube.com/user/ClojureTV/videos)
 
-# Writtings
+# Writings
 
 *   [List Out of Lambda](http://stevelosh.com/blog/2013/03/list-out-of-lambda/)
 *   [Structure and Interpretation of Computer Programming](https://github.com/sarabander/sicp-pdf/raw/master/sicp.pdf)
