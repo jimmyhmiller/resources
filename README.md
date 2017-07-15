@@ -37,7 +37,7 @@
 # Writings
 
 *   [List Out of Lambda](http://stevelosh.com/blog/2013/03/list-out-of-lambda/)
-*   [Structure and Interpretation of Computer Programming](https://github.com/sarabander/sicp-pdf/raw/master/sicp.pdf)
+*   [Structure and Interpretation of Computer Programs](https://github.com/sarabander/sicp-pdf/raw/master/sicp.pdf)
 *   [It Is What It Is (And Nothing Else)](https://existentialtype.wordpress.com/2016/02/22/it-is-what-it-is-and-nothing-else/)
 *   [Single Return Considered Harmful](https://drew.thecsillags.com/Single-Return-Considered-Harmful/)
 *   [Clojure for the Brave and True](http://www.braveclojure.com/)
