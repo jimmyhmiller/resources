@@ -42,4 +42,3 @@
 *   [Single Return Considered Harmful](https://drew.thecsillags.com/Single-Return-Considered-Harmful/)
 *   [Clojure for the Brave and True](http://www.braveclojure.com/)
 *   [Programming as Theory Building](http://pages.cs.wisc.edu/%7Eremzi/Naur.pdf)
-*   [Things which aren't magic - AngularJS Dependency Injection](http://ains.co/blog/things-which-arent-magic-angular-js-di.html)
